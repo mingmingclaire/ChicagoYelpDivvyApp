@@ -10,8 +10,7 @@ The following is the list of technologies, platforms, and packages used in the d
   5. PostgreSQL – to store Divvys tations real-time status
   6. ElasticSearch – to store Yel previews for Chicago Businesses
   7. ElasticSearch – to create and store Divvy real-time logs and store Divvy trips anonymized data
-  8. ChromebrowserthatiscompliantwithECMAScript2015scripting
-  2015, (ES6)
+  8. Chrome browser that is compliant with ECMAScript 2015 scripting 2015, (ES6)
    
 For this project there are two data sources that we will use for our application:
   1. We will use Yelp business reviews (See Appendix A) to make recommendations for restaurants in Chicago downtown area that are highly reviewed and got at least 3-stars on Yelp.
