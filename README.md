@@ -26,6 +26,7 @@ For this project there are two data sources that we will use for our application
     https://www.yelp.com/developers/documentation/v3/all_category_list
 
   2. We will use Divvy real-time data (See Appendix B) about the status of their docking stations
+  
     a. Here is the URL for the real-time data they publish:
     https://gbfs.divvybikes.com/gbfs/gbfs.json
     
