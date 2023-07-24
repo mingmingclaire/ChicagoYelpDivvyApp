@@ -39,4 +39,6 @@ For this project, there are two data sources that we will use for our applicatio
     https://www.divvybikes.com/system-data
 
 Architecture Design
+
+
 ![Screen Shot 2023-07-24 at 2 00 57 PM](https://github.com/mingmingclaire/ChicagoYelpDivvyRealTimeWebApp/assets/43943707/c6839be7-6f99-4ed7-83f3-78cfad1652ac)
